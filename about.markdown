@@ -9,3 +9,5 @@ permalink: /about/
 Hello, I am Sandy ! Welcome to my blog.
 
 I have some cool [projects](/projects) you might want to check out.
+
+The Special thing is... upon pushing the commit to the GitHub repo, this static site is being automatically build and deployed via Travis CI. 
